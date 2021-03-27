@@ -1,14 +1,16 @@
-title: Wead.
-email: your-email@domain.com
+title: anadh
+email: andrewadhikari2016@gmail.com
 description: "A simple and clean jekyll theme."
-twitter_username: kevyder
-github_username:  kevyder
-baseurl: /wead
+twitter_username: itbud
+github_username:  t-rhex
+baseurl: /portfolio
+url: "https://t-rhex.github.io"
 paginate: 5
-paginate_path: "/wead/page:num/"
+paginate_path: "/portfolio/page:num/"
 plugins: [jekyll-paginate]
 
 markdown: kramdown
 sass:
   sass_dir: _sass
   style: :compressed
+theme: wead
