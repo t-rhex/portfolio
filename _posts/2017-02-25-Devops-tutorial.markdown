@@ -13,13 +13,12 @@ A simple and clean jekyll theme.
 Demo: https://kevyder.github.io/wead/
 Rubygems: https://rubygems.org/gems/wead
 
-### Preview.
-![Imgur](http://i.imgur.com/5brZmdv.png)
+## Preview.
+<!-- ![Imgur](http://i.imgur.com/5brZmdv.png) -->
 
 <p align="center">
-  <img width="700" height="700" src="http://i.imgur.com/5brZmdv.png">
+  <img width="800" height="800" src="http://i.imgur.com/5brZmdv.png">
 </p>
-
 
 
 ## Installation,
