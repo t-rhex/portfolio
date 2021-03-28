@@ -17,7 +17,7 @@ Rubygems: https://rubygems.org/gems/wead
 ![Imgur](http://i.imgur.com/5brZmdv.png)
 
 <p align="center">
-  <img width="460" height="300" src="http://i.imgur.com/5brZmdv.png">
+  <img width="700" height="700" src="http://i.imgur.com/5brZmdv.png">
 </p>
 
 
