@@ -16,6 +16,11 @@ Rubygems: https://rubygems.org/gems/wead
 ### Preview.
 ![Imgur](http://i.imgur.com/5brZmdv.png)
 
+<p align="center">
+  <img width="460" height="300" src="http://i.imgur.com/5brZmdv.png">
+</p>
+
+
 
 ## Installation,
 
