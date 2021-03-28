@@ -1,8 +1,10 @@
-title: anadh
+title: anadh.
+subHeading: "Welcome to my website"
 email: andrewadhikari2016@gmail.com
-description: "A simple and clean jekyll theme."
+description: "Welcome to my website. This is my personal website where I write blogs and walkthroughs."
 twitter_username: itbud
 github_username:  t-rhex
+resume: resume
 baseurl: /portfolio
 url: "https://t-rhex.github.io"
 paginate: 5
@@ -13,4 +15,4 @@ markdown: kramdown
 sass:
   sass_dir: _sass
   style: :compressed
-theme: wead
+# theme: wead
